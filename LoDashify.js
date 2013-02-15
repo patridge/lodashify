@@ -42,7 +42,7 @@
     };
     head.appendChild(script);
   }
-  getScript('http://cdnjs.cloudflare.com/ajax/libs/lodash.js/1.0.0/lodash.compat.js',function() {
+  getScript('//cdnjs.cloudflare.com/ajax/libs/lodash.js/1.0.0/lodash.compat.js',function() {
     if (typeof _=='undefined') {
       msg='Sorry, but Lo-Dash wasn\'t able to load';
     } else {
