@@ -1,6 +1,6 @@
 #lodashify v1.0.0
 
-Want an easy way to poke at a page with [Lo-Dash [v.1.0.0]](http://lodash.com/)?
+Want an easy way to poke at a page with [Lo-Dash [compat-dev v.1.0.0]](http://lodash.com/)?
 
 Create a bookmark with this for the URL (sorry, embedding the bookmarklet didn't work):
 
